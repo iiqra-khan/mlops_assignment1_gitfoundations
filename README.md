@@ -27,10 +27,20 @@ This project implements a tyre classification model using machine learning techn
     ```bash
     pip install -r requirements.txt
     ```
-3. Run training script:  
-    ```bash
-    python src/train.py
-    ```
+3. Launch:
+   ```bash
+   Kaggle
+   ```
+   or
+   ```bash
+   jupyter notebook
+   ```
+
+4. Open **`earlystopping.ipynb`** and run the cells step by step.
+
+---
+
+✅ The notebook will train the model and stops when validation accuracy stops improving.
 
 ## Early Stopping
 
