@@ -10,8 +10,8 @@ This project implements a tyre classification model using machine learning techn
 
 ## Folder Structure
 
-- `data/` - Dataset of tyre images
-- `src/` - Source code for model training and evaluation
+- `earlystopping.ipynb` - Source code for model training and evaluation
+- `EDA.ipynb` - exploratory data analysis 
 - `README.md` - Project documentation
 
 ## Requirements
