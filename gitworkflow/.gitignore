@@ -5,6 +5,8 @@
 # Ignore model files
 *.pkl
 *.h5
+*.pth
+
 
 # Ignore environment files
 .venv/
